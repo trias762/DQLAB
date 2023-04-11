@@ -31,7 +31,7 @@ SELECT * FROM customer limit 5;
  Hasil dari query di atas seperti ini :
  </p>
   ![all table](https://user-images.githubusercontent.com/33899480/231238488-836b90b9-bb7c-411e-a395-de128b45f572.png)
-
+# Bagaimana Pertumbuhan Penjualan Saat Ini
   ## Menghitung Total Penjualan dan Revenue pada Quarter-1 (Jan, Feb, Mar) dan Quarter-2 (Apr,Mei,Jun)
   <p>
  Untuk mendapatkan total penjualan dan revenue pada quarter 1 dan quarter 2 maka perlu melakukan urutan langkah berikut:
